@@ -236,7 +236,7 @@ function create_config( )
     "id2",
     "infofa"
     },
-    sudo_users = {170172168},--Sudo users
+    sudo_users = {181179082},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[]],
     help_text_realm = [[]],
